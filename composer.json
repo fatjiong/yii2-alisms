@@ -5,7 +5,7 @@
     "keywords": ["yii2","sms","ali","dayu"],
     "type": "yii2-extension",
     "license": "MIT",
-    "minimum-stability":"stable",
+    "minimum-stability":"dev",
     "support": {  
         "issues":"https://github.com/fatjiong/yii2-alisms/issues",  
         "forum":"",  
