@@ -1,0 +1,26 @@
+{  
+    "name": "fatjiong/yii2-alisms",  
+    "type": "yii2-extension",  
+    "description": "Yii2的阿里短信组件",  
+    "keywords": ["yii2","sms","ali","dayu"],  
+    "license": "MIT",  
+    "support": {  
+        "issues":"https://github.com/fatjiong/yii2-alisms/issues",  
+        "forum":"",  
+        "source":"https://github.com/fatjiong/yii2-alisms"  
+    },  
+    "authors":[  
+        {  
+            "name":"fatjiong",  
+            "email":"757970599@qq.com"  
+        }  
+    ],  
+    "require":{  
+        "yiisoft/yii2":"*",  
+    },  
+    "autoload":{  
+        "psr-4":{  
+            "fatjiong\\alisms\\":""  
+        }  
+    }  
+}  
