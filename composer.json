@@ -3,13 +3,13 @@
     "type": "yii2-extension",  
     "description": "Yii2的阿里短信组件",  
     "keywords": ["yii2","sms","ali","dayu"],  
-    "license": "MIT",  
+    "license": "MIT",
+    "minimum-stability"=>"stable",
     "support": {  
         "issues":"https://github.com/fatjiong/yii2-alisms/issues",  
         "forum":"",  
         "source":"https://github.com/fatjiong/yii2-alisms"  
     },
-    "minimum-stability":"dev",
     "authors":[  
         {  
             "name":"fatjiong",  
@@ -17,7 +17,7 @@
         }  
     ],  
     "require":{  
-        "yiisoft/yii2":"*"
+        "yiisoft/yii2": "~2.0.14"
     },  
     "autoload":{  
         "psr-4":{  
