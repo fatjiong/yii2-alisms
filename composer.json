@@ -8,7 +8,8 @@
         "issues":"https://github.com/fatjiong/yii2-alisms/issues",  
         "forum":"",  
         "source":"https://github.com/fatjiong/yii2-alisms"  
-    },  
+    },
+    "prefer-stable":true,
     "authors":[  
         {  
             "name":"fatjiong",  
